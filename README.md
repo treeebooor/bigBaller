@@ -1,4 +1,4 @@
-# bigBaller
+# :basketball: bigBaller :basketball:
 A transformer based system for multi-agent time series prediction in a game of basketball.
 
 ## Contents
