@@ -25,7 +25,14 @@ The goal of the micro case is to understand the intircate movements of the ball 
 
 In the macro scenario, the objective is to learn the overall game movements in a 2D space over a longer period of time(2s). This macro level understanding of the game can be used to analyze game strategies or player movements throughout an entire possession or sequence of plays. 
 ## Results
-Blue line is the trajectory of the ball given as input to the model. Green line is ground truth future trajectory. Predicted trajectory is red. The small x's represent players on the field, colorcoded by team. 
+
+**Blue** is the trajectory of the ball given as input to the model. 
+
+**Green** is ground truth future trajectory. 
+
+**Red** is the predicted trajectory . 
+
+The small x's represent players on the court, colorcoded by team. 
 
 
 ### Macro: Using 2 seconds to predict 2 seconds. 
