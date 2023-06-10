@@ -4,8 +4,7 @@ A transformer based system for multi-agent time series prediction in a game of b
 <p style="text-align:center;">
  <img src="img/warriors.gif" alt="Visualization of Basketball Data" width="500" >
  
- Image from https://github.com/linouk23/NBA-Player-Movements/blob/master/examples/warriors.gif
- 
+ Animation taken from [this](https://github.com/linouk23/NBA-Player-Movements) repo.
 </p>
 
 
@@ -25,6 +24,7 @@ The goal of the micro case is to understand the intircate movements of the ball 
 
 In the macro scenario, the objective is to learn the overall game movements in a 2D space over a longer period of time(2s). This macro level understanding of the game can be used to analyze game strategies or player movements throughout an entire possession or sequence of plays. 
 ## Results
+Due to resource limiations, model was trained on 50 games from the 2016 NBA season. Dataset can be found [here](https://github.com/linouk23/NBA-Player-Movements)
 
 **Blue** is the trajectory of the ball given as input to the model. 
 
